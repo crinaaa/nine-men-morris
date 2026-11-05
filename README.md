@@ -2,6 +2,20 @@
 
 A Python implementation of the classic **Nine Men's Morris** board game, featuring both a graphical and a console interface, as well as a computer opponent powered by the Minimax algorithm.
 
+## Game Rules
+
+Nine Men's Morris is a two-player strategy board game. Each player starts with nine pieces and aims to reduce the opponent's pieces to fewer than three or prevent them from making a legal move.
+
+The game consists of three phases:
+
+1. **Placement Phase:** Players take turns placing their pieces on empty positions on the board.
+2. **Movement Phase:** Once all pieces have been placed, players take turns moving one of their pieces to an adjacent empty position.
+3. **Flying Phase:** When a player has only three pieces left, they can move a piece to any empty position on the board.
+
+Forming a *mill* — a row of three pieces belonging to the same player — allows that player to remove one of the opponent's pieces, subject to the game's removal rules.
+
+The game ends when a player has fewer than three pieces remaining or cannot make a legal move.
+
 ## Features
 
 - **Two interfaces:** Play through a graphical interface built with Pygame or through the console.

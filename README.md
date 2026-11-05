@@ -135,4 +135,4 @@ This project was developed as an exercise in object-oriented programming, softwa
 
 
 ## Screenshots
-<img src="screenshots/main-game.png" width="600">
+<img src="screenshots/main.png" width="600">

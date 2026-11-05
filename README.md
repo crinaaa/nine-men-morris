@@ -132,3 +132,7 @@ To run the tests, see [docs/testing.md](docs/testing.md).
 ---
 
 This project was developed as an exercise in object-oriented programming, software architecture, algorithmic problem-solving, and game AI.
+
+
+## Screenshots
+![Main Game](screenshots/main.png)
